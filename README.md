@@ -1,4 +1,7 @@
-## bootcamp-week-1 - Week 1 challenge - accessability
+## bootcamp-week-1 - Refactor code for accessability
+
+# Description
+Refactor the code of an already established website to make it more accessable.
 
 
 # User Story
@@ -10,9 +13,13 @@ SO THAT our own site is optimized for search engines
 
 # Acceptance Criteria
 
-Your website must meet accessibility standards. You can achieve this completing the following:
-Semantic HTML elements can be found throughout the source code
-HTML elements follow a logical structure independent of styling and positioning
-Image and icon elements contain accessible alt attributes
-Heading attributes fall in sequential order
-Title elements contain a concise, descriptive title
+Website meets accessibility standards
+WHEN I view the source code
+THEN adjust HTML elements to make them Semantic
+WHEN viewing HTML elements ensure they follow a logical structure independent of styling and positioning
+WHEN I view image and icon elements
+THEN I add ALT attributes to all images and icons
+WHEN I view heading attributes
+THEN ensure they fall in sequential order
+WHEN reviewing title elements
+THEN ensure they contain a concise, descriptive title
