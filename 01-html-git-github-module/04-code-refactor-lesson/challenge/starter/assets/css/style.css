@@ -25,6 +25,7 @@ header h1 .seo {
 }
 
 header div {
+    align-items: center;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -47,6 +48,7 @@ a {
 }
 
 p {
+    align-self: auto;
     word-spacing: 10px;
     font-size: 20px;
 }
