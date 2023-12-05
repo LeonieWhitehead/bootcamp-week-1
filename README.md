@@ -7,6 +7,7 @@ Refactor the code of an already established website to make it more accessable.
 # User Story
 
 AS A marketing agency
+
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
